@@ -6,12 +6,13 @@ body{
 
 .container{
   position: relative;
-  top: 0;
-  left: 0;
+  top: ;
+  left: ;
   width: 1000px;
   height: 450px;
-//  box-shadow: -3px 5px 10px rgba(0,0,0,0.8);
+  box-shadow: -3px 5px 10px rgba(0,0,0,0.8);
   overflow: hidden;
+  margin: 100px auto;
 }
 
 input{
